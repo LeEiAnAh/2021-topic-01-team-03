@@ -29,6 +29,7 @@ Till 14.06
 - [ ] Wilcoxon Signed Rank Test. Who?
 
 
+
 In the pipeline:
 - [ ] Try to find a way to store long codes in loops just to make it more professional (when enough time for it)
 - [ ] What happens with drugs which are effective but dose dependant?
